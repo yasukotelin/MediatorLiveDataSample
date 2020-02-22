@@ -1,8 +1,7 @@
 package com.github.yasukotelin.mediatorlivedatasample
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.github.yasukotelin.mediatorlivedatasample.ui.main.MainFragment
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
